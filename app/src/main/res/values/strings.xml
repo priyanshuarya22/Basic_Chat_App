@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Basic Chat App</string>
+    <string name="_00_00">00:00</string>
+    <string name="refresh">Refresh</string>
+    <string name="enter_user_id">Enter User Id</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="create_user_id">Create User ID</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="create_password">Create Password</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="reciver_name">Reciver_Name</string>
+    <string name="enter_message">Enter Message...</string>
+    <string name="send">Send</string>
+    <string name="chat">CHAT</string>
+</resources>
